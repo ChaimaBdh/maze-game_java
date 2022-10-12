@@ -143,12 +143,12 @@ Choix de destruction du mur EST (aléatoire) :
 ![](./img/binarytree-10x10.png)  
 *Affichage du plateau (arbre binaire)*  
 
-![](../img/sidewinder-10x10.png)  
+![](./img/sidewinder-10x10.png)  
 *Affichage du plateau (sidewinder)*    
 
 ### Atteinte des objectifs
 
-![](../uml/Livrable1.png)  
+![](./uml/Livrable1.png)  
 *modélisation du plateau : diagramme UML*        
 
 ### Difficultés restant à résoudre
@@ -157,7 +157,7 @@ Choix de destruction du mur EST (aléatoire) :
 
 ### Atteinte des objectifs
 
-![](../uml/Livrable2.png)  
+![](./uml/Livrable2.png)  
 
 *modélisation des personnages et des objets : diagramme uml*  
 
@@ -167,7 +167,7 @@ Choix de destruction du mur EST (aléatoire) :
 
 ### Atteinte des objectifs
 
-![](../uml/Livrable3.png)  
+![](./uml/Livrable3.png)  
 
 *modélisation des actions : diagramme uml*      
 
@@ -189,7 +189,7 @@ SINON:
 
 ### Atteinte des objectifs
 
-![](../uml/Livrable4.png)  
+![](./uml/Livrable4.png)  
 
 *modélisation complète du projet*  
 
