@@ -140,7 +140,7 @@ Choix de destruction du mur EST (aléatoire) :
 
 ### Exemples d'affichage du plateau  
 
-![](../img/binarytree-10x10.png)  
+![](./img/binarytree-10x10.png)  
 *Affichage du plateau (arbre binaire)*  
 
 ![](../img/sidewinder-10x10.png)  
