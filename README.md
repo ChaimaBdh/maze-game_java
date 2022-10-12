@@ -33,7 +33,7 @@ cd maze-game_java
 *générer* :
 
 ```bash
-.../projet> make doc
+make doc
 ```  
 
 *consulter* :  
@@ -44,19 +44,19 @@ Ouvrir le fichier **index.html** situé dans le dossier **/docs** dans le naviga
 ## Compilation des sources et tests du projet  
 
 ```bash
-.../projet> make cls
+make cls
 ```  
 
 ## Exécution des tests
 
 ```bash
-.../projet> java -jar test4poo.jar nomDuPackage.NomDeClasseTest
+java -jar test4poo.jar nomDuPackage.NomDeClasseTest
 ```  
 
 ## Production du jar exécutable (implique la compilation du code source et des tests)
 
 ```bash
-.../projet> make jeu.jar
+make jeu.jar
 ```
 
 ## Exécution du jeu  
@@ -64,13 +64,13 @@ Ouvrir le fichier **index.html** situé dans le dossier **/docs** dans le naviga
 **Pour l'algorithme de l'arbre binaire :**  
 
 ```sh
-.../projet> java -jar jar/jeu.jar 1
+java -jar jar/jeu.jar 1
 ```  
 
 **Pour l'algorithme de sidewinder :**  
 
 ```sh
-.../projet> java -jar jar/jeu.jar 2
+java -jar jar/jeu.jar 2
 ```  
 
 ## Autres indications  
@@ -87,18 +87,18 @@ Voici les commandes à effectuer :
 
 *production du jar :*  
 ```bash
-.../projet> make jeu-v2.jar  
+make jeu-v2.jar  
 ```  
 
 *exécution du jeu*  
 ```bash
-.../projet> make game
+make game
 ```
 
 ## Nettoyer les fichiers  
 
 ```bash
-.../projet> make clean
+make clean
 ```  
 
 # Livrables
