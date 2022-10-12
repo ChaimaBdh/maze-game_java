@@ -19,13 +19,13 @@
 ## Récupérer le projet  
 
 ```bash
-git clone git@gitlab-etu.fil.univ-lille.fr:boudehane/l-2-s-4-projet-2022-g-6.git projet  
+git clone git@github.com:ChaimaBdh/maze-game_java.git 
 ```
 
 *se placer dans le répertoire*  
 
 ```bash
-cd projet
+cd maze-game_java
 ```
 
 ## Génération et consultation de la documentation  
